@@ -3,7 +3,7 @@
 ## About Author
 
 
-![](../img/wechat.jpg)
+   
 
 ## 1.This pointer
 

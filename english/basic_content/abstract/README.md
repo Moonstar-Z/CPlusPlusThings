@@ -4,7 +4,7 @@
 
 
 
-![](../img/wechat.jpg)
+   
 
 ## 1.Pure virtual function and abstract class
 

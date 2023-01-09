@@ -3,7 +3,7 @@
 ## About Author：
 
 
-![](../img/wechat.jpg)
+   
 
 
 

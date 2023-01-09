@@ -2,7 +2,7 @@
 
 
 
-![](../img/wechat.jpg)
+   
 
 More detail about struct [Story about struct](../struct)
 

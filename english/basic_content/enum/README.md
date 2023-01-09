@@ -3,7 +3,7 @@
 ## About author：
 
 
-![](../img/wechat.jpg)
+   
 
 
 ## Traditional

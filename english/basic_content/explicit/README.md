@@ -3,7 +3,7 @@
 ## About Author：
 
 
-![](../img/wechat.jpg)
+   
 
 - explicit When decorating a constructor, you can prevent implicit conversion and copy initialization
 - explicit When modifying a conversion function, you can prevent implicit conversion, except for context conversion

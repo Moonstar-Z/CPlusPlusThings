@@ -4,7 +4,7 @@
 
 
 
-![](../img/wechat.jpg)
+   
 
 ## 1.Inline in Class
 

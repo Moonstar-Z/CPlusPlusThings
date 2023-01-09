@@ -1,7 +1,7 @@
 ## About Author：
 
 
-![](../img/wechat.jpg)
+   
 
 ## What is Bit field ？
 

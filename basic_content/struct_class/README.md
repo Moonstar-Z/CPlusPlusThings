@@ -1,10 +1,10 @@
 # struct与class区别
 
-## 关于作者：
+##  ：
 
-个人公众号：
+   ：
 
-![](../img/wechat.jpg)
+   
 
 关于C与C++中struct内容：见[struct那些事](../struct)
 

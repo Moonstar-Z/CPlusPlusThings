@@ -3,7 +3,7 @@
 
 
 
-![](../img/wechat.jpg)
+   
 
 （Union）is a space saving special class.A union can have multiple data members.However, only one data member can have a value at any time. When a member is assigned a value, other members become undefined.
 

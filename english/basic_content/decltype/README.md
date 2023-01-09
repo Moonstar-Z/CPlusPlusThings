@@ -3,7 +3,7 @@
 ## About Author：
 
 
-![](../img/wechat.jpg)
+   
 
 ## 1.Basic
 The syntax of decltype is:

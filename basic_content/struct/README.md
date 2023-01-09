@@ -1,10 +1,10 @@
 # 一文搞懂C和C++中struct
 
-## 关于作者：
+##  ：
 
-个人公众号：
+   ：
 
-![](../img/wechat.jpg)
+   
 
 ## 1.C中struct
 

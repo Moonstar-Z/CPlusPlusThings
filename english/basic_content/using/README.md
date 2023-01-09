@@ -2,7 +2,7 @@
 ## About Author：
 
 
-![](../img/wechat.jpg)
+   
 
 ## Basic use
 

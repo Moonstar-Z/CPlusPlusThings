@@ -2,7 +2,7 @@
 
 
 
-![](../img/wechat.jpg)
+   
 
 ## 1.The macro contains special symbols
 
